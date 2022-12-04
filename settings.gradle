@@ -1,0 +1,3 @@
+rootProject.name = 'base-generation-repository'
+
+include 'base-crud-app'
