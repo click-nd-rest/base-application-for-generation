@@ -1,7 +1,7 @@
 # Gradle
 .gradle/
 gradle*
-build/
+base-crud-app/build/
 
 # IDEA
 .idea/
@@ -39,3 +39,6 @@ replay_pid*
 
 # Mac
 .DS_Store
+
+# H2
+database.mv
