@@ -1,3 +1,3 @@
-rootProject.name = 'base-generation-repository'
+rootProject.name = 'base-application-for-generation'
 
 include 'base-crud-app'
